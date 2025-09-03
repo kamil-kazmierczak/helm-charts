@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the documentation for the [jameswynn Helm charts](https://github.com/jameswynn/helm-charts) project.
+Welcome to the documentation for the [kamil-kazmierczak Helm charts](https://github.com/kamil-kazmierczak/helm-charts) project.
 
 ## Getting started
 
@@ -11,10 +11,10 @@ Refer to Helm's [documentation](https://helm.sh/docs/) to get started.
 ## Installation
 
 ```sh
-helm repo add jameswynn http://jameswynn.github.io/helm-charts/
+helm repo add kamil-kazmierczak http://kamil-kazmierczak.github.io/helm-charts/
 ```
 
-You can then run `helm search repo jameswynn` to search the charts.
+You can then run `helm search repo kamil-kazmierczak` to search the charts.
 
 ## License
 
