@@ -4,12 +4,12 @@ description: Chart for Homepage
 icon: https://github.com/gethomepage/homepage/blob/main/public/mstile-150x150.png
 name: homepage
 version: 2.1.0
-appVersion: v1.2.0
+appVersion: v1.4.6
 sources:
-  - https://github.com/jameswynn/helm-charts/charts/homepage
+  - https://github.com/kamil-kazmierczak/helm-charts/charts/homepage
   - https://github.com/gethomepage/homepage/
 maintainers:
-  - name: jameswynn
+  - name: kamil-kazmierczak
 dependencies:
   - name: common
     repository: https://bjw-s-labs.github.io/helm-charts
